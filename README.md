@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samigitt
 - 👀 I’m interested in coding and playing football
 - 🌱 I’m currently learning javascript python 
-- 💞️ I’m looking to collaborate on a project
+
 
 
 <!---
