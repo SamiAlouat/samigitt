@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sami
 #### Software developer
-I'm sami from the netherlands and i'am a software developer. I really enjoy learning new languages and frameworks like java and python, and stuff like reactJS. You can check out my twitter @AlgorithmSami1 or my discord sami.py#8305
+I'm sami from the netherlands and i'am a software developer. I really enjoy learning new languages and frameworks like java and python. You can check out my linkedin samialouat or my discord sami.py#8305
 
 ## Skills & Technologies
 
