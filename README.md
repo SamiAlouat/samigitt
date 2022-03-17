@@ -1,6 +1,6 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.sami.com/)
 
-##### Hi, I'm Adam:
+##### Hi, I'm Sami:
 
 - 🎓Recent computer science graduate from UNC - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
