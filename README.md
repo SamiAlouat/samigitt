@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.sami.com/)
+[![Header](https://github.com/samialouat/samialouat/raw/master/profile.gif)](https://www.sami.com/)
 
 ##### Hi, I'm Sami:
 
