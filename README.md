@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami alouat</h1>
-<h3 align="center">This is ME, Sami, a 1st year undergraduate from Mborijnland, leiden. A budding Full-Stack Developer and a Competitive Programming Enthusiast , who is obsessed with the idea of improving herself and wants a platform to grow and excel .</h3>
+<h3 align="center">I am sami a 1st year software development student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samigitt&label=Profile%20views&color=0e75b6&style=flat" alt="samigitt" /> </p>
 
