@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samigitt&label=Profile%20views&color=0e75b6&style=flat" alt="samigitt" /> </p>
 
-- 🔭 I’m currently working on a **Android app**
+- 🔭 I’m currently working on  **Cyber Security**
 
 - 🌱 I’m currently learning **java,android development,Python**
 
