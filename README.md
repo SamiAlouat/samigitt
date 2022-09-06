@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sami alouat</h1>
-<h3 align="center">I am an 1st year software development student </h3>
+<h3 align="center">I am an 2nd year software engineer student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samigitt&label=Profile%20views&color=0e75b6&style=flat" alt="samigitt" /> </p>
 
-- 🔭 I’m currently working on  **Cyber Security**
+- 🔭 I’m currently interning at **GetGrib**
 
-- 🌱 I’m currently learning **java,android development,Python**
-
-- 👯 I’m looking to collaborate on **projects**
+- 🌱 I’m currently learning **Python, JSON, DS Algorithms**
 
 - 👨‍💻 All of my projects are available at [samigitt](samigitt)
 
-- 💬 Ask me about **Java,web development**
+- 💬 Ask me about **Backend engineering**
 
 - 📄 Know about my experiences [https://resumesami.netlify.app/](https://resumesami.netlify.app/)
 
